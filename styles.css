@@ -19,9 +19,9 @@ body {
 
 /* the menu at the top of every page */
 nav {
-    background-color: #2b5d8c;
+    background-color: #2f7a4f;
     padding: 14px;
-    text-align: center;
+    text-align: Georgia;
 }
 
 /* every image inside the menu is forced to the same height.
@@ -39,8 +39,8 @@ nav a {
 }
 
 h1 {
-    color: #2b5d8c;
-    text-align: center;
+    color: #2f7a4f;
+    text-align: Georgia;
     font-size: 40px;
 }
 
@@ -52,7 +52,7 @@ p {
 }
 
 footer {
-    text-align: center;
+    text-align: Georgia;
     font-size: 14px;
     color: #777777;
     margin-top: 40px;
